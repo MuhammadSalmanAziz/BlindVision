@@ -1,0 +1,1 @@
+# BlindVision : A computer vision based assistive technology for blind People
