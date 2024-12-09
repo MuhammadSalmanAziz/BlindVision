@@ -4,3 +4,4 @@ Components of the Project:
 - Object Detection
 - Speech Recognition
 - Text to speech
+- OCR
