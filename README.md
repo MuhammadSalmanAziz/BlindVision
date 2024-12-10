@@ -5,3 +5,4 @@
 - Speech Recognition
 - Text to speech
 - OCR
+- Raspberry Pi 5
