@@ -6,3 +6,6 @@
 - Text to speech
 - OCR
 - Raspberry Pi 5
+
+## Hardware
+- camera
