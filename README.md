@@ -8,5 +8,5 @@
 - Raspberry Pi 5
 
 ## Hardware
-- camera
+- Raspberry Pi Camera
 - UltraSonic Sensor
