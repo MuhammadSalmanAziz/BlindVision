@@ -11,3 +11,4 @@
 - Raspberry Pi Camera
 - UltraSonic Sensor
 - Bluetooth Speaker
+- Power Supply
